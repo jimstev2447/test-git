@@ -34,3 +34,12 @@ module.exports.postSnack = (req, res) => {
     res.status(201).send({ snack });
   });
 };
+
+module.exports.getSomehting = (req, res) => {
+  const {
+    body: { snack },
+  } = req;
+  insertSnack(snack).then((snack) => {
+    res.status(201).send({ snack });
+  });
+};
