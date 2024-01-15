@@ -1,0 +1,20 @@
+[
+  {
+    "snack_name": "digestive",
+    "description": "boring biscuit",
+    "price_in_pence": 50,
+    "category": "biscuit"
+  },
+  {
+    "snack_name": "banana",
+    "description": "the healthy option",
+    "price_in_pence": 70,
+    "category": "fruit"
+  },
+  {
+    "snack_name": "boost",
+    "description": "the best bar",
+    "price_in_pence": 100,
+    "category": "chocolate bar"
+  }
+]

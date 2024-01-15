@@ -1,0 +1,18 @@
+[
+  {
+    "location": "Leeds",
+    "date_last_stocked": "2024-01-01",
+    "snacks": ["boost", "banana"]
+  },
+  {
+    "location": "Manchester",
+    "date_last_stocked": "2023-12-12",
+    "snacks": ["boost", "banana", "digestive"]
+  },
+  {
+    "location": "Birmingham",
+    "date_last_stocked": "2024-01-02",
+    "snacks": ["digestive"]
+  },
+  { "location": "Newcastle", "date_last_stocked": "2024-01-03", "snacks": [] }
+]

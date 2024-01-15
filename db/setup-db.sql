@@ -1,0 +1,4 @@
+DROP DATABASE IF EXISTS nc_snacks;
+CREATE DATABASE nc_snacks;
+
+
